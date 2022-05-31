@@ -1,5 +1,6 @@
-<h1>LeuxBackdoor</h1></br>
-<h3>A minecraft 1.12.2 mod aimed to anarchy servers.<h3></br>
+<h1>LeuxBackdoor</h1>
+
+<h3>A minecraft 1.12.2 mod aimed to anarchy servers.</h3></br>
 
 <em>
 - I won't update this anymore.</br>
