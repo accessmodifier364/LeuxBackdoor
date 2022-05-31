@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.accessmodifier364.leuxbackdoor.client.mixins",
+  "refmap": "mixins.leux.refmap.json",
+  "mixins": [
+    "IEntityLivingBase",
+    "MixinAbstractHorse",
+    "MixinEnderCrystal",
+    "MixinEntity",
+    "MixinEntityLlama",
+    "MixinEntityPig",
+    "MixinEntityRenderer",
+    "MixinEntitySP",
+    "MixinGuiBossOverlay",
+    "MixinGuiIngame",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiScreen",
+    "MixinGuiToast",
+    "MixinItemRenderer",
+    "MixinLayerArmorBase",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinPlayer",
+    "MixinPlayerControllerMP",
+    "MixinRenderPlayer",
+    "MixinWorld"
+  ]
+}

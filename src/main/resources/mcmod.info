@@ -1,0 +1,15 @@
+[{
+	"modid"        : "leux",
+	"name"         : "LeuxBackdoor",
+	"description"  : "cumming",
+	"version"      : "0.9",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "https://discord.gg/RWQ9pAH9JW",
+	"updateUrl"    : "https://discord.gg/RWQ9pAH9JW",
+	"authorList"   : ["Luscius, ObsidianBreaker"],
+	"credits"      : "Luscius, ObsidianBreaker",
+	"logoFile"     : "leuxbackdoor.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
