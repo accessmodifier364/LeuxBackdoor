@@ -1,6 +1,17 @@
-<h1>LeuxBackdoor</h1>
-<h3>A minecraft 1.12.2 mod aimed to anarchy servers.</h3>
-<em>
-- I won't update this anymore.</br>
-- This client is a skid from another clients, but I coded some things (like Elevator).
-</em>
+# LeuxBackdoor
+
+> A minecraft mod aimed to anarchy servers.
+
+## GUI
+
+![GUI](media/GUI.gif)
+
+## Requirements
+
+- [Forge 1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
+
+## Review (spanish)
+
+[![Youtube](media/youtube.png)](https://www.youtube.com/watch?v=l8iPv3RKibM)
+
+### Note: You can use [ViaForge](https://github.com/ViaVersion/ViaForge) for using this mod in newer versions.
